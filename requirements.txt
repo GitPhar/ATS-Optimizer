@@ -1,0 +1,4 @@
+openai
+python-docx
+rake-nltk
+tkinter
