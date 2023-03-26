@@ -57,4 +57,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Sean Pharris - sean.pharris@colorado.edu
 
-Project Link: https://github.com/your_username/Resume-Enhancer-Plugin
+Project Link: https://github.com/wiseblue32/ATS-Optimizer
